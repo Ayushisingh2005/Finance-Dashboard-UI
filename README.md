@@ -2,7 +2,7 @@
 A clean, interactive, and responsive financial management dashboard built for the Frontend Developer Intern screening. This application allows users to track financial summaries, explore transactions, and understand spending patterns through data visualization.
 
 *🚀 Live Demo
-(Optional: If you deploy to Vercel/Netlify, put the link here)
+https://finance-dashboard-seven-sable.vercel.app/
 
 *✨ Features
 
@@ -26,7 +26,7 @@ Role Switcher: A simple toggle in the header to demonstrate different UI behavio
 5. Responsive Design
 Fully optimized for Mobile, Tablet, and Desktop using Tailwind’s mobile-first grid system.
 
-* 🛠️ Tech Stack
+🛠️ Tech Stack
 Framework: React.js (Vite)
 Styling: Tailwind CSS (Rapid, utility-first UI)
 Icons: Lucide React (Clean, consistent iconography)
@@ -54,7 +54,7 @@ Subtle shadows and rounded corners (2xl) for a professional, "app-like" feel.
 *🏁 Getting Started
 Clone the repository:
 ``` bash
-git clone <your-repo-link>
+git clone https://github.com/Ayushisingh2005/Finance-Dashboard-UI
 ```
 Install dependencies:
 ``` bash
